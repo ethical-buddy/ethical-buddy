@@ -9,7 +9,7 @@
 
 ### 🛠️ Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=linux,c,cpp,python,rust,bash,html,css,js,ts,nodejs,react,nextjs,tailwind,bootstrap,git,github,docker,postgres,mongodb,redis,express,figma,nginx,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,BSD,Plan9,Kali,c,x85_64 assembly ,cpp,python,rust,bash,ts,git,github,docker,vim,Nvim,Ghidra,Nessus,)](https://skillicons.dev)
 
 > Modify the list by changing values in `i=` (comma-separated)
 
