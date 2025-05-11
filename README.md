@@ -24,32 +24,68 @@
 
 ### 🧰 Tools of the Trade (Cyber & Systems Dev)
 
-#### 🖥️ Programming & Scripting:
-- C, C++
-- Python
-- Bash
-- Go
-- Assembly (x86/x64)
-- Rust (in progress)
+---
 
-#### 🛠️ Systems & Low-Level Dev:
-- Linux system programming (syscalls, `/proc`, ptrace)
-- Thread injection & memory manipulation
-- Raw sockets & network protocol crafting
-- Kernel introspection & syscall tracing
+### 🧰 Tools of the Trade (Cyber & Systems Dev)
 
-#### 🧠 Cybersecurity Toolkit:
-- Nmap, Wireshark, Tcpdump
-- GDB, Radare2, pwndbg
-- Netcat, socat, curl
-- Metasploit, Burp Suite (community)
-- iptables, nftables, fail2ban
-- QEMU/KVM sandboxing & exploitation labs
+<details>
+<summary><strong>🖥️ Programming & Scripting</strong></summary>
 
-#### 🗃️ Infra / Deployment:
-- Docker, systemd, OpenSSH
-- Git, GitHub, Gitea
-- Tmux, Neovim, htop, lsof
+<p>
+
+| Languages |  |
+|----------|----|
+| 🧬 C/C++ | 🐍 Python |
+| 🐚 Bash | 🚀 Go |
+| 💾 Assembly (x86/x64) | 🦀 Rust (in progress) |
+
+</p>
+</details>
+
+<details>
+<summary><strong>🛠️ Systems & Low-Level Dev</strong></summary>
+
+<p>
+
+| Topics |  |
+|--------|----|
+| 🧩 Linux syscalls | 🔍 `/proc`, `ptrace` |
+| 🧠 Memory manipulation | 🧵 Thread injection |
+| 🌐 Raw sockets | 🧪 Syscall tracing |
+
+</p>
+</details>
+
+<details>
+<summary><strong>🧠 Cybersecurity Toolkit</strong></summary>
+
+<p>
+
+| Tools |  |
+|-------|----|
+| 🌐 Nmap, Wireshark | 📡 Tcpdump |
+| 🧨 GDB, Radare2, pwndbg | 🧫 Metasploit, Burp |
+| 🧱 iptables, nftables | 🛡️ fail2ban |
+| 💻 Netcat, socat, curl | 🧪 QEMU/KVM labs |
+
+</p>
+</details>
+
+<details>
+<summary><strong>🗃️ Infra / Deployment</strong></summary>
+
+<p>
+
+| Stack |  |
+|-------|----|
+| 🐳 Docker | 🧩 systemd |
+| 🔑 OpenSSH | 🔁 Git, Gitea |
+| 🧭 Neovim, tmux | 🧮 htop, lsof |
+
+</p>
+</details>
+
+---
 
 ---
 
