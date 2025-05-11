@@ -10,8 +10,7 @@
 
 ---
 <div align="center">
-  <img align="center" alt="Cyberpunk Terminal" width="500" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif">
-</div>
+<img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="500"></div>
 
 ---
 
