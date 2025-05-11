@@ -7,6 +7,9 @@
 
 <h1 align="center">Hi 👋, I'm ethical-buddy</h1>
 <h3 align="center">Security-focused dev | Terminal enthusiast | DevOps gremlin</h3>
+<h4 align="center">> 🔐 *Everything is a file. Everything is a process. Everything is an exploit waiting to be discovered.*
+</h4>
+
 
 ---
 <div align="center">
