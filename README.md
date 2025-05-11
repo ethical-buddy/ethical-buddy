@@ -9,11 +9,9 @@
 <h3 align="center">Security-focused dev | Terminal enthusiast | DevOps gremlin</h3>
 
 ---
-
 <div align="center">
-  <img align="center" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+  <img align="center" alt="Cyberpunk Terminal" width="500" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif">
 </div>
-
 
 ---
 
