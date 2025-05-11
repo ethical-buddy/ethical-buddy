@@ -20,7 +20,11 @@
 </div>
 
 ---
+### 🧿 Visitor Counter
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ethical-buddy/count.svg" alt="Visitor Count">
+</p>
 ### 🧰 Tools of the Trade:
 
 [![My Skills](https://skillicons.dev/icons?i=linux,c,cpp,python,go,js,ts,html,css,nodejs,express,react,nextjs,postgres,mongodb,redis,docker,kafka,git,github,bash,vim)](https://skillicons.dev)
@@ -30,7 +34,8 @@
 ### 🧠 Currently Hacking On:
 - Decentralized crawling infrastructure 🕸️
 - Real-time shell injection frameworks 🐚
-- Kafka-based event pipelines 🔀
+- A terminal based file manager
+- SDN - new rust based protocols
 - A modular UNIX-like OS project 🧬
 
 ---
@@ -54,18 +59,14 @@
 
 ---
 
-### 🧿 Visitor Counter
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/ethical-buddy/count.svg" alt="Visitor Count">
-</p>
 
 ---
 
 ### 📫 Connect with Me
-- Email: ethicalbuddy@protonmail.com
+- Email: suryanshdeshwal@gmail.com
 - GitHub: [ethical-buddy](https://github.com/ethical-buddy)
-
+- Portfolio: [Suryansh-Deshwal](https://suryansh-deshwal.vercel.app/)
 > 🔐 *Everything is a file. Everything is a process. Everything is an exploit waiting to be discovered.*
 
 ---
