@@ -22,11 +22,7 @@
 
 ---
 
-### 🧰 Tools of the Trade (Cyber & Systems Dev)
-
----
-
-### 🧰 Tools of the Trade (Cyber & Systems Dev)
+### 🧰 Tools of the Trade (Cyber & Systems Dev) [click to view skills]
 
 <details>
 <summary><strong>🖥️ Programming & Scripting</strong></summary>
