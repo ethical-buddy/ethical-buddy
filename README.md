@@ -1,13 +1,8 @@
 <!-- README.md -->
 
-<!-- 🖼️ Banner Image -->
+<!-- 🔥 Reliable Hacker-Styled Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ethical-buddy/ethical-buddy/main/assets/banner.png" width="100%" alt="ethical-buddy banner"/>
-</p>
-
-<!-- 🧠 Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=30&lines=#!/bin/bash+-x;initializing+ethical-buddy...;code+is+my+religion;0x1337+hacking+my+future;echo+Welcome+to+my+terminal" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=900&height=40&lines=echo+Initializing+ethical-buddy+profile...;chmod+1337+everything;Welcome+to+my+GitHub+terminal" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi 👋, I'm ethical-buddy</h1>
@@ -20,23 +15,52 @@
 </div>
 
 ---
+
 ### 🧿 Visitor Counter
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/ethical-buddy/count.svg" alt="Visitor Count">
 </p>
-### 🧰 Tools of the Trade:
 
-[![My Skills](https://skillicons.dev/icons?i=linux,c,cpp,python,go,js,ts,html,css,nodejs,express,react,nextjs,postgres,mongodb,redis,docker,kafka,git,github,bash,vim)](https://skillicons.dev)
+---
+
+### 🧰 Tools of the Trade (Cyber & Systems Dev)
+
+#### 🖥️ Programming & Scripting:
+- C, C++
+- Python
+- Bash
+- Go
+- Assembly (x86/x64)
+- Rust (in progress)
+
+#### 🛠️ Systems & Low-Level Dev:
+- Linux system programming (syscalls, `/proc`, ptrace)
+- Thread injection & memory manipulation
+- Raw sockets & network protocol crafting
+- Kernel introspection & syscall tracing
+
+#### 🧠 Cybersecurity Toolkit:
+- Nmap, Wireshark, Tcpdump
+- GDB, Radare2, pwndbg
+- Netcat, socat, curl
+- Metasploit, Burp Suite (community)
+- iptables, nftables, fail2ban
+- QEMU/KVM sandboxing & exploitation labs
+
+#### 🗃️ Infra / Deployment:
+- Docker, systemd, OpenSSH
+- Git, GitHub, Gitea
+- Tmux, Neovim, htop, lsof
 
 ---
 
 ### 🧠 Currently Hacking On:
-- Decentralized crawling infrastructure 🕸️
-- Real-time shell injection frameworks 🐚
-- A terminal based file manager
-- SDN - new rust based protocols
-- A modular UNIX-like OS project 🧬
+- Decentralized crawling infrastructure 🕸️  
+- Real-time shell injection frameworks 🐚  
+- A terminal-based file manager 🗂️  
+- SDN - new Rust-based protocols 🌐  
+- A modular UNIX-like OS project 🧬  
 
 ---
 
@@ -59,16 +83,11 @@
 
 ---
 
-
-
----
-
 ### 📫 Connect with Me
-- Email: suryanshdeshwal@gmail.com
-- GitHub: [ethical-buddy](https://github.com/ethical-buddy)
+- Email: suryanshdeshwal@gmail.com  
+- GitHub: [ethical-buddy](https://github.com/ethical-buddy)  
 - Portfolio: [Suryansh-Deshwal](https://suryansh-deshwal.vercel.app/)
+
 > 🔐 *Everything is a file. Everything is a process. Everything is an exploit waiting to be discovered.*
 
 ---
-
-
