@@ -25,6 +25,14 @@
 
 ---
 
+
+### 📈 Productivity Chart
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ethical-buddy&theme=tokyo-night&area=true&hide_border=true" width="100%">
+</p>
+
+---
 ### 🧰 Tools of the Trade (Cyber & Systems Dev) [click to view skills]
 
 <details>
@@ -62,11 +70,11 @@
 
 | Tools |  |
 |-------|----|
-| 🌐 Nmap, Wireshark | 📡 Tcpdump |
-| 🧨 GDB, Radare2, pwndbg | 🧫 Metasploit, Burp |
-| 🧱 iptables, nftables | 🛡️ fail2ban |
+| 🌐 Nmap, Wireshark, Nessus | 📡 Network pentesting |
+| 🧨 GDB, Radare2, pwndbg | 🧫 Reverse engineering |
+| 🧱 iptables, nftables | 🛡️ OSINT |
 | 💻 Netcat, socat, curl | 🧪 QEMU/KVM labs |
-
+|Active Directories|AI in security|
 </p>
 </details>
 
@@ -84,7 +92,6 @@
 </p>
 </details>
 
----
 
 ---
 
@@ -105,14 +112,6 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethical-buddy&layout=compact&theme=tokyonight&hide=css" alt="Top Langs" /></td>
   </tr>
 </table>
-
----
-
-### 📈 Productivity Chart
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ethical-buddy&theme=tokyo-night&area=true&hide_border=true" width="100%">
-</p>
 
 ---
 
