@@ -15,13 +15,8 @@
 <div align="center">
 <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="500"></div>
 
----
 
-### 🧿 Visitor Counter
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/ethical-buddy/count.svg" alt="Visitor Count">
-</p>
 
 ---
 
