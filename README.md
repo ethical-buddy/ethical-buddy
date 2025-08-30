@@ -69,7 +69,7 @@
 | 🧨 GDB, Radare2, pwndbg | 🧫 Reverse engineering |
 | 🧱 iptables, nftables | 🛡️ OSINT |
 | 💻 Netcat, socat, curl | 🧪 QEMU/KVM labs |
-|Active Directories|AI in security|
+|flag{Y3S_1_U5E_4i_to_hack}|AI in security|
 </p>
 </details>
 
