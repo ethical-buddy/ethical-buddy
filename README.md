@@ -18,10 +18,60 @@ I build secure systems from the ground up, starting at the kernel. Passionate ab
 
 ## 📊 GitHub Stats & Activity
 
-<!-- Alternative: Contribution Graph (if you want activity visualization) -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethical-buddy&theme=tokyonight&hide_border=true&background=1a1b26" />
+  <a href="https://github.com/ethical-buddy">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ethical-buddy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00ff00&icon_color=00ff00" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/ethical-buddy">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethical-buddy&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00ff00" alt="Top Languages" />
+  </a>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethical-buddy&theme=tokyonight&hide_border=true&background=1a1b26&stroke=00ff00&ring=00ff00&fire=ff6b00" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📌 Pinned Repositories
+
+<div align="center">
+
+**⭐ My Best Work - Check These Out ⭐**
+
+</div>
+
+<!-- Pin your top 6 repositories here -->
+<!-- Replace the URLs and descriptions with your actual repos -->
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/ethical-buddy/repo-name-1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethical-buddy&repo=repo-name-1&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00ff00&icon_color=00ff00" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/ethical-buddy/repo-name-2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethical-buddy&repo=repo-name-2&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00ff00&icon_color=00ff00" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/ethical-buddy/repo-name-3">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethical-buddy&repo=repo-name-3&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00ff00&icon_color=00ff00" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/ethical-buddy/repo-name-4">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethical-buddy&repo=repo-name-4&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00ff00&icon_color=00ff00" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+> **💡 Tip:** Replace `repo-name-1`, `repo-name-2`, etc. with your actual GitHub repository names to make these cards appear!
 
 ---
 
@@ -75,7 +125,7 @@ I build secure systems from the ground up, starting at the kernel. Passionate ab
 - **Security Research**: Focused on syscall abuse, memory exploitation, and kernel-level security
 - **Low-Level Mastery**: Comfortable working with assembly, memory layout, and process internals
 - **DevOps Excellence**: Containerization, orchestration, and secure infrastructure
-- **Terminal Power User**: Vim/Neovim, tmux, shell scripting mastery , helix , Zellij .... ricing
+- **Terminal Power User**: Vim/Neovim, tmux, shell scripting mastery, helix, Zellij, ricing
 - **AI in Security**: Exploring machine learning for threat detection & vulnerability discovery
 
 ---
@@ -91,22 +141,6 @@ Currently diving deeper into:
 
 ---
 
-## 📚 Featured Repositories
-
-<!--
-This section will auto-populate if you have pinned repositories. 
-Otherwise, manually highlight your best work:
--->
-
-Explore my repositories above 👆 for:
-- Security tools & utilities
-- System programming projects
-- CTF solutions & writeups
-- DevOps automation scripts
-- Educational security content
-
----
-
 ## 🌐 Connect & Collaborate
 
 <div align="center">
@@ -116,19 +150,50 @@ Explore my repositories above 👆 for:
 | 📧 **Email** | [suryanshdeshwal@gmail.com](mailto:suryanshdeshwal@gmail.com) |
 | 💼 **GitHub** | [@ethical-buddy](https://github.com/ethical-buddy) |
 | 🌍 **Portfolio** | [Suryansh-Deshwal](https://suryansh-deshwal.vercel.app/) |
-| 🔗 **LinkedIn** | [Your LinkedIn](www.linkedin.com/in/suryansh-deshwal) |
+| 🔗 **LinkedIn** | [Suryansh Deshwal](https://www.linkedin.com/in/suryansh-deshwal) |
+| ☕ **Support** | [Buy Me A Coffee](https://www.buymeacoffee.com/) |
 
 </div>
-### ☕ Buy Me a Coffee
-   If my tools/insights helped you, consider supporting:
-   [Buy Me A Coffee](<iframe src="https://github.com/sponsors/ethical-buddy/button" title="Sponsor ethical-buddy" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>)
-   
+
+---
+
+## 🛠️ Quick Links
+
+<div align="center">
+
+[![View My Portfolio](https://img.shields.io/badge/View_Portfolio-000?style=for-the-badge&logo=web&logoColor=white)](https://suryansh-deshwal.vercel.app/)
+[![Check My GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ethical-buddy)
+[![Email Me](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryanshdeshwal@gmail.com)
+
+</div>
+
+---
+
+## 💡 Fun Stats
+
+```
+┌─────────────────────────────┐
+│  📊  PROFILE STATISTICS  📊  │
+├─────────────────────────────┤
+│ Years Coding:       7+       │
+│ Languages Mastered: 10+      │
+│ Projects Built:     20+      │
+│ Coffee Consumed:    ♾️        │
+│ Exploits Found:     🤐 (NDA) │
+│ Current Obsession:  Kernels  │
+└─────────────────────────────┘
+```
+
 ---
 
 <div align="center">
 
-### 🔓 "The best security is understanding how things can break"
+### 🔓 _"The best security is understanding how things can break"_
 
-**[⬆ Back to top](#hi--im-ethical-buddy)**
+---
+
+**Last Updated**: 2025 | Made with ❤️ & `while(true) { code(); }`
+
+[⬆ Back to Top](#hi--im-ethical-buddy)
 
 </div>
