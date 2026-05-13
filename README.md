@@ -1,68 +1,153 @@
-<!-- ========================= -->
-<!--      ETHICAL-BUDDY       -->
-<!-- ========================= -->
-
+<!-- README.md -->
+<!-- 🔥 Reliable Hacker-Styled Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=900&height=40&lines=echo+Initializing+ethical-buddy...;Loading+kernel+modules...;Establishing+secure+shell...;Welcome+to+my+GitHub+terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=900&height=40&lines=echo+Initializing+ethical-buddy+profile...;chmod+1337+everything;Welcome+to+my+GitHub+terminal" alt="Typing SVG" />
 </p>
 
-<h1 align="center">ethical-buddy</h1>
-
-<p align="center">
-  Low-level Systems • Cybersecurity • Networking • DevOps
-</p>
-
-<p align="center">
-  <i>
-    "Everything is a file. Everything is a process. Everything is an exploit waiting to be discovered."
-  </i>
-</p>
+<h1 align="center">Hi 👋, I'm ethical-buddy</h1>
+<h3 align="center">🔐 Security-focused dev | 🖥️ Terminal enthusiast | ⚙️ DevOps gremlin</h3>
 
 ---
 
-<p align="center">
+## 🧠 The Philosophy
+> **_"Everything is a file. Everything is a process. Everything is an exploit waiting to be discovered."_**
 
-<img src="https://komarev.com/ghpvc/?username=ethical-buddy&style=for-the-badge&color=00ff00"/>
-
-<img src="https://img.shields.io/badge/Linux-Fedora-00ff00?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Focus-Systems%20%7C%20Security-00ff00?style=for-the-badge&logoColor=black"/>
-
-</p>
+I build secure systems from the ground up, starting at the kernel. Passionate about low-level systems, cybersecurity, and turning theoretical exploits into bulletproof code.
 
 ---
 
-## 🧠 About
+## 📊 GitHub Stats & Activity
 
-````bash
-┌──(ethical-buddy㉿github)-[~/profile]
-└─$ whoami
+<div align="center">
+  <a href="https://github.com/ethical-buddy">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ethical-buddy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00ff00&icon_color=00ff00" />
+  </a>
+  <a href="https://github.com/ethical-buddy">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethical-buddy&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00ff00" />
+  </a>
+</div>
 
-ethical-buddy
+<!-- Alternative: Contribution Graph (if you want activity visualization) -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethical-buddy&theme=tokyonight&hide_border=true&background=1a1b26" />
+</div>
 
-┌──(ethical-buddy㉿github)-[~/profile]
-└─$ cat about.txt
+---
 
-Low-level systems developer
-Security researcher
-Distributed systems builder
-Terminal workflow addict
+## 🧰 Tech Arsenal
 
-Interests:
-- kernels
-- eBPF
-- reverse engineering
-- network protocols
-- operating systems
-- runtime tracing
-- infrastructure
-- IPv6 overlays
+### 🖥️ Programming & Scripting
+```
+🧬 C/C++            🐍 Python            🐚 Bash
+🚀 Go               💾 Assembly (x86/x64) 🦀 Rust
+🌀 JavaScript       ⚡ TypeScript
+```
 
-┌──(ethical-buddy㉿github)-[~/profile]
-└─$ sudo make world
+### 🛠️ Systems & Low-Level
+```
+🔧 Linux Syscalls   🧠 Memory Manipulation    🧵 Thread Injection
+🔍 /proc & ptrace   🌐 Raw Sockets           🧪 Syscall Tracing
+🔬 Kernel Modules   🎯 Exploit Development
+```
 
-[✔] initializing vx6
-[✔] loading kernel modules
-[✔] compiling questionable ideas
-[✔] bypassing sleep schedule
-[✔] system ready
+### 🔐 Cybersecurity & Tooling
+```
+🌐 Nmap             📡 Wireshark             🧨 GDB
+🔎 Radare2          📍 pwndbg                🧫 Reverse Engineering
+🛡️ iptables/nftables 🧱 Firewall Rules       📊 Network Analysis
+💻 Netcat/socat     🧪 QEMU/KVM Labs         🐚 Exploitation
+```
+
+### 🗃️ Infrastructure & DevOps
+```
+🐳 Docker           🧩 Kubernetes            🔑 OpenSSH
+🔁 Git/Gitea        🧭 Neovim               🧵 Tmux
+🧮 Linux Profiling  📡 Systemd              🚀 CI/CD Pipelines
+```
+
+---
+
+## 🚀 Current Projects
+
+| Project | Status | Description |
+|---------|--------|-------------|
+| 🕸️ **Decentralized Crawling Infrastructure** | 🔨 Active | Distributed web crawling with protocol optimization |
+| 🐚 **Shell Injection Frameworks** | 🔨 Active | Real-time injection & execution analysis |
+| 🗂️ **Terminal File Manager** | 🔨 In Progress | TUI-based file management system |
+| 🌐 **SDN Protocol Suite** | 🔨 Active | Rust-based networking protocols |
+| 🧬 **UNIX-like OS Kernel** | 📚 Research | Modular kernel design & implementation |
+
+---
+
+## 🏆 Highlights & Achievements
+
+- **Security Research**: Focused on syscall abuse, memory exploitation, and kernel-level security
+- **Low-Level Mastery**: Comfortable working with assembly, memory layout, and process internals
+- **DevOps Excellence**: Containerization, orchestration, and secure infrastructure
+- **Terminal Power User**: Vim/Neovim, tmux, shell scripting mastery
+- **AI in Security**: Exploring machine learning for threat detection & vulnerability discovery
+
+---
+
+## 🎓 Learning & Growth
+
+Currently diving deeper into:
+- Advanced reverse engineering techniques
+- Kernel exploitation & defense mechanisms
+- Rust systems programming
+- Distributed systems security
+- Threat modeling & security architecture
+
+---
+
+## 📚 Featured Repositories
+
+<!--
+This section will auto-populate if you have pinned repositories. 
+Otherwise, manually highlight your best work:
+-->
+
+Explore my repositories above 👆 for:
+- Security tools & utilities
+- System programming projects
+- CTF solutions & writeups
+- DevOps automation scripts
+- Educational security content
+
+---
+
+## 🌐 Connect & Collaborate
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 📧 **Email** | [suryanshdeshwal@gmail.com](mailto:suryanshdeshwal@gmail.com) |
+| 💼 **GitHub** | [@ethical-buddy](https://github.com/ethical-buddy) |
+| 🌍 **Portfolio** | [Suryansh-Deshwal](https://suryansh-deshwal.vercel.app/) |
+| 🔗 **LinkedIn** | [Your LinkedIn](#) |
+| 🐦 **Twitter/X** | [@YourHandle](#) |
+
+</div>
+
+---
+
+## 💡 Quick Stats
+
+```
+├─ Years Coding: 7+
+├─ Languages: 10+
+├─ Projects: 20+
+├─ Coffee Consumed: ♾️
+└─ Exploits Discovered: 🤐
+```
+
+---
+
+<div align="center">
+
+### 🔓 "The best security is understanding how things can break"
+
+**[⬆ Back to top](#hi--im-ethical-buddy)**
+
+</div>
