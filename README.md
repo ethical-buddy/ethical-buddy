@@ -121,7 +121,8 @@ Explore my repositories above 👆 for:
 </div>
 ### ☕ Buy Me a Coffee
    If my tools/insights helped you, consider supporting:
-   [Buy Me A Coffee](https://www.buymeacoffee.com/)
+   [Buy Me A Coffee](<iframe src="https://github.com/sponsors/ethical-buddy/button" title="Sponsor ethical-buddy" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>)
+   
 ---
 
 <div align="center">
