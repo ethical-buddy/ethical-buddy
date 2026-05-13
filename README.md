@@ -18,15 +18,6 @@ I build secure systems from the ground up, starting at the kernel. Passionate ab
 
 ## 📊 GitHub Stats & Activity
 
-<div align="center">
-  <a href="https://github.com/ethical-buddy">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ethical-buddy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00ff00&icon_color=00ff00" />
-  </a>
-  <a href="https://github.com/ethical-buddy">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethical-buddy&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00ff00" />
-  </a>
-</div>
-
 <!-- Alternative: Contribution Graph (if you want activity visualization) -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethical-buddy&theme=tokyonight&hide_border=true&background=1a1b26" />
@@ -84,7 +75,7 @@ I build secure systems from the ground up, starting at the kernel. Passionate ab
 - **Security Research**: Focused on syscall abuse, memory exploitation, and kernel-level security
 - **Low-Level Mastery**: Comfortable working with assembly, memory layout, and process internals
 - **DevOps Excellence**: Containerization, orchestration, and secure infrastructure
-- **Terminal Power User**: Vim/Neovim, tmux, shell scripting mastery
+- **Terminal Power User**: Vim/Neovim, tmux, shell scripting mastery , helix , Zellij .... ricing
 - **AI in Security**: Exploring machine learning for threat detection & vulnerability discovery
 
 ---
@@ -125,23 +116,12 @@ Explore my repositories above 👆 for:
 | 📧 **Email** | [suryanshdeshwal@gmail.com](mailto:suryanshdeshwal@gmail.com) |
 | 💼 **GitHub** | [@ethical-buddy](https://github.com/ethical-buddy) |
 | 🌍 **Portfolio** | [Suryansh-Deshwal](https://suryansh-deshwal.vercel.app/) |
-| 🔗 **LinkedIn** | [Your LinkedIn](#) |
-| 🐦 **Twitter/X** | [@YourHandle](#) |
+| 🔗 **LinkedIn** | [Your LinkedIn](www.linkedin.com/in/suryansh-deshwal) |
 
 </div>
-
----
-
-## 💡 Quick Stats
-
-```
-├─ Years Coding: 7+
-├─ Languages: 10+
-├─ Projects: 20+
-├─ Coffee Consumed: ♾️
-└─ Exploits Discovered: 🤐
-```
-
+### ☕ Buy Me a Coffee
+   If my tools/insights helped you, consider supporting:
+   [Buy Me A Coffee](https://www.buymeacoffee.com/)
 ---
 
 <div align="center">
