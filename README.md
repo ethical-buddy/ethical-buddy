@@ -153,7 +153,7 @@ Currently diving deeper into:
 | 💼 **GitHub** | [@ethical-buddy](https://github.com/ethical-buddy) |
 | 🌍 **Portfolio** | [Suryansh-Deshwal](https://suryansh-deshwal.vercel.app/) |
 | 🔗 **LinkedIn** | [Suryansh Deshwal](https://www.linkedin.com/in/suryansh-deshwal) |
-| ☕ **Support** | [Buy Me A Coffee](https://www.buymeacoffee.com/) |
+| ☕ **Support** | [Buy Me A Coffee](https://github.com/sponsors/ethical-buddy) |
 
 </div>
 
