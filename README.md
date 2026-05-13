@@ -70,9 +70,6 @@ I build secure systems from the ground up, starting at the kernel. Passionate ab
     </td>
   </tr>
 </table>
-
-> **💡 Tip:** Replace `repo-name-1`, `repo-name-2`, etc. with your actual GitHub repository names to make these cards appear!
-
 ---
 
 ## 🧰 Tech Arsenal
