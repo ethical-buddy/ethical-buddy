@@ -78,8 +78,11 @@ STATUS="building weird things that probably should not exist"
 [✔] compiling questionable ideas
 [✔] bypassing sleep schedule
 [✔] system ready
+```
 
-🚀 Featured Projects
+---
+
+# 🚀 Featured Projects
 Project	Description
 VX6	IPv6-first decentralized overlay network for private service sharing and self-hosting
 BB OS	64-bit research-oriented operating system with tracing and replay capabilities
