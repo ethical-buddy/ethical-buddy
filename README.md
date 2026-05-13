@@ -32,6 +32,11 @@ I build secure systems from the ground up, starting at the kernel. Passionate ab
 </div>
 
 ---
+### 📈 Productivity Chart
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ethical-buddy&theme=tokyo-night&area=true&hide_border=true" width="100%">
+</p>
+---
 
 ## 📌 Pinned Repositories
 
