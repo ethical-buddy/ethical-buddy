@@ -47,24 +47,24 @@ I build secure systems from the ground up, starting at the kernel. Passionate ab
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/ethical-buddy/repo-name-1">
+      <a href="https://github.com/ethical-buddy/vx6">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethical-buddy&repo=repo-name-1&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00ff00&icon_color=00ff00" />
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/ethical-buddy/repo-name-2">
+      <a href="https://github.com/ethical-buddy/Bumbellbee">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethical-buddy&repo=repo-name-2&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00ff00&icon_color=00ff00" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/ethical-buddy/repo-name-3">
+      <a href="https://github.com/ethical-buddy/Knot">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethical-buddy&repo=repo-name-3&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00ff00&icon_color=00ff00" />
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/ethical-buddy/repo-name-4">
+      <a href="https://github.com/ethical-buddy/TORONS">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethical-buddy&repo=repo-name-4&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00ff00&icon_color=00ff00" />
       </a>
     </td>
@@ -166,23 +166,7 @@ Currently diving deeper into:
 [![Email Me](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryanshdeshwal@gmail.com)
 
 </div>
-
 ---
-
-## 💡 Fun Stats
-
-```
-┌─────────────────────────────┐
-│  📊  PROFILE STATISTICS  📊  │
-├─────────────────────────────┤
-│ Years Coding:       7+       │
-│ Languages Mastered: 10+      │
-│ Projects Built:     20+      │
-│ Coffee Consumed:    ♾️        │
-│ Exploits Found:     🤐 (NDA) │
-│ Current Obsession:  Kernels  │
-└─────────────────────────────┘
-```
 
 ---
 
