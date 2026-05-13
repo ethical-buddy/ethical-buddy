@@ -66,3 +66,69 @@ Interests:
 [✔] compiling questionable ideas
 [✔] bypassing sleep schedule
 [✔] system ready
+
+🚀 Featured Projects
+VX6
+
+IPv6-first decentralized overlay network for private service sharing and self-hosting.
+
+BB OS
+
+Replay-oriented 64-bit research operating system with tracing and custom VFS.
+
+Torons
+
+Dark web crawling and OSINT infrastructure.
+
+VimGo
+
+Terminal-based file manager with embedded terminal workflows.
+
+CyberSecureX
+
+Real-world inspired offensive security and CTF infrastructure.
+
+📈 Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ethical-buddy&theme=tokyo-night&hide_border=true&area=true" width="100%" /> </p>
+📊 GitHub Statistics
+<p align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ethical-buddy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ethical-buddy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+
+</p> <p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ethical-buddy&theme=tokyonight&hide_border=true" />
+
+</p>
+⚙️ Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=go,c,cpp,rust,python,bash,linux,docker,kubernetes,git,neovim,vim,redis,postgresql"/> </p>
+🛠️ Areas of Interest
+[+] Kernel Development
+[+] Operating Systems
+[+] Reverse Engineering
+[+] Offensive Security
+[+] Distributed Systems
+[+] Infrastructure Engineering
+[+] Runtime Tracing
+[+] Network Protocol Design
+🖥️ Current Status
+$ ps aux | grep current_projects
+
+VX6                RUNNING
+BB-OS              RUNNING
+Torons             RUNNING
+sleep_schedule     BROKEN
+social_life        SEGFAULT
+🌐 Connect
+<p align="center"> <a href="mailto:suryanshdeshwal@gmail.com"> <img src="https://img.shields.io/badge/Email-00FF00?style=for-the-badge&logo=gmail&logoColor=black"> </a> <a href="https://github.com/ethical-buddy"> <img src="https://img.shields.io/badge/GitHub-00FF00?style=for-the-badge&logo=github&logoColor=black"> </a> <a href="https://suryansh-deshwal.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-00FF00?style=for-the-badge&logo=firefox&logoColor=black"> </a> </p>
+🧬 Fun Loop
+while(alive) {
+    eat();
+    sleep();
+    code();
+    repeat();
+}
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=120&section=footer"/> </p> <p align="center"> <i>The quieter the system looks, the more interesting it probably is.</i> </p> ````
+
