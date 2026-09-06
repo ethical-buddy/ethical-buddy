@@ -1,253 +1,218 @@
-SURYANSH DESHWAL // ethical-buddy
+<!--
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║              SURYANSH DESHWAL // @ethical-buddy                ║
+  ║       Systems · Security · Kernels · Networks · Open Source     ║
+  ╚══════════════════════════════════════════════════════════════════╝
+-->
 
-Systems & Security Engineer · Kernel Hacker · Network Builder · Open-Source Developer
 
 
 
 
 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=39FF14&center=true&vCenter=true&width=900&lines=%24+booting+ethical-buddy...;%24+building+kernels+%7C+networks+%7C+security+tools;%24+IPv6-native.+Linux-first.+Open-source.;%24+understand+the+system+%3E+trust+the+abstraction" alt="Typing SVG" />{=html}
-:::
 
-ethical-buddy@github:~$ whoami
 
-Name       : Suryansh Deshwal
-Role       : Systems & Security Engineer
-Focus      : Kernels · Networking · Distributed Systems · Cybersecurity
-Languages  : Go · C/C++ · Rust · Python · x86-64 Assembly · Bash
-Mode       : Build low. Break assumptions. Ship useful systems.
 
-I work close to the machine: operating systems, Linux internals,
-networking, distributed systems, eBPF, security tooling and
-infrastructure.
 
-Most of my projects start with a question like:
+$ whoami
 
-"What happens if I remove the abstraction and build the thing
-myself?"
+ethical-buddy@github:~$ ./whoami
 
-That has led me to build an IPv6-native overlay network, a
-POSIX-inspired operating system, Linux tooling, dark-web/OSINT
-infrastructure, and security research projects.
+USER        Suryansh Deshwal
+ROLE        Systems & Security Engineer
+FOCUS       Kernels · Networking · Distributed Systems · Cybersecurity
+LANG        Go · C/C++ · Rust · Python · x86-64 Assembly · Bash
+EDITOR      Neovim / Vim
+PLATFORM    Linux
+MISSION     Build low. Break assumptions. Ship useful systems.
 
-01 // FEATURED SYSTEMS
+I build software close to the machine — operating systems, Linux internals, networking, distributed systems, eBPF, security tooling, infrastructure, and things that are usually hidden behind several layers of abstraction.
 
-<table>
+My favorite engineering question:
+“What happens if I stop trusting the abstraction and inspect the layer underneath?”
 
-<tr>
+That question has taken me from kernel experiments and OS development to IPv6-native networking, terminal tooling, security research, dark-web intelligence, and open-source infrastructure.
 
-<td width="50%" valign="top">
+// FEATURED BUILDS
 
-🌐 VX6
+🌐 VX6 — IPv6-native decentralized networking
 
-IPv6-native decentralized self-hosting fabric
 
-Bring a service from localhost on one machine to localhost on
-another without building your workflow around public IPv4, conventional
-port-forwarding, or a central controller.
 
-Go IPv6 P2P DHT Cryptography Networking
+A decentralized IPv6-first node, service, and relay runtime.
 
+Think self-hosted connectivity without making a central controller the heart of the network. VX6 explores persistent node identity, service discovery, DHT-backed lookup, encrypted forwarding, relays, and IPv6-native peer-to-peer infrastructure.
 
+Go IPv6 P2P DHT Cryptography Overlay Networks Distributed Systems
 
 
 
-→ vx6.tech
 
-</td>
 
-<td width="50%" valign="top">
 
-🐝 BumbelBee
+🐝 BumbelBee — Operating system from scratch
 
-Operating system built from scratch
 
-A POSIX-inspired OS project for learning and experimenting with kernels
-from the bottom up: boot flow, memory, interrupts, processes, syscalls
-and low-level execution.
 
-C Assembly x86-64 Kernel OSDev QEMU
+A POSIX-inspired operating-system project for exploring the machine from boot to userspace: low-level initialization, memory, interrupts, execution, syscalls, processes, filesystems, and kernel architecture.
 
+C x86-64 Assembly Kernel OSDev Syscalls QEMU
 
 
 
-</td>
 
-</tr>
 
-<tr>
+🗂️ Vimgo — terminal-first file management
 
-<td width="50%" valign="top">
 
-🗂️ Vimgo
 
-Terminal-first Linux file manager in Go
+A keyboard-driven Linux file manager written in Go for people who would rather stay inside the terminal.
 
-Fast file traversal with a keyboard-driven workflow and Vim-oriented
-interaction --- built for people who would rather stay inside a
-terminal.
+Go Linux TUI CLI Vim Workflow
 
-Go Linux TUI CLI Vim
 
 
 
+🧠 KERNEL-HACKING — experiments under userspace
 
-</td>
 
-<td width="50%" valign="top">
 
-🧠 KERNEL-HACKING
+A practical playground for understanding kernel behavior, internals, low-level interfaces, and security by experimentation instead of treating the kernel as a black box.
 
-Experiments below the userspace boundary
+Linux Kernel Internals Security Tracing Research
 
-A playground for understanding kernel behavior, internals and security
-through practical experiments rather than treating the kernel as a black
-box.
+// MY STACK
 
-Linux Kernel Security Python Research
+⚙️ Languages
 
 
 
-</td>
+C / C++        → kernels, systems, networking, performance
+Go             → network software, distributed services, infrastructure
+Rust           → safe systems programming, networking, security tooling
+Python         → research tooling, automation, CTI / OSINT
+Assembly       → x86-64, boot flow, architecture-level debugging
+Bash           → Linux automation, build systems, operations
 
-</tr>
+🧰 Systems / Infrastructure
 
-</table>
 
-02 // WHAT I BUILD
 
-┌──────────────────── SYSTEMS ────────────────────┐
-│ kernels · syscalls · schedulers · memory · VFS │
-│ bootloaders · interrupts · tracing · eBPF      │
-└────────────────────────┬────────────────────────┘
-                         │
-                         ▼
-┌─────────────────── NETWORKING ──────────────────┐
-│ IPv6 · P2P · overlays · raw sockets · routing  │
-│ DHTs · tunnels · packet processing · SDN       │
-└────────────────────────┬────────────────────────┘
-                         │
-                         ▼
-┌──────────────────── SECURITY ───────────────────┐
-│ reverse engineering · OSINT · CTI · hardening  │
-│ runtime security · attack research · tooling   │
-└────────────────────────┬────────────────────────┘
-                         │
-                         ▼
-┌───────────────── INFRASTRUCTURE ────────────────┐
-│ Linux · Docker · Kubernetes · CI/CD · systemd  │
-│ observability · automation · distributed apps  │
-└─────────────────────────────────────────────────┘
 
-03 // ENGINEERING TOOLBOX
 
-::: {align="center"}
 
-Languages
 
 
 
 
+// THE LAYERS I LIKE BREAKING OPEN
 
+┌────────────────────────────────────────────────────────────────────┐
+│                         APPLICATIONS                               │
+│        security tools · CLIs · CTI · automation · services         │
+├────────────────────────────────────────────────────────────────────┤
+│                      DISTRIBUTED SYSTEMS                            │
+│        P2P · discovery · DHTs · relays · identity · crypto         │
+├────────────────────────────────────────────────────────────────────┤
+│                           NETWORK                                  │
+│        IPv6 · routing · raw sockets · tunnels · packets · SDN       │
+├────────────────────────────────────────────────────────────────────┤
+│                        LINUX / KERNEL                              │
+│        eBPF · syscalls · tracing · VFS · processes · memory         │
+├────────────────────────────────────────────────────────────────────┤
+│                         HARDWARE                                   │
+│        x86-64 · interrupts · boot · CPU state · assembly            │
+└────────────────────────────────────────────────────────────────────┘
+                       ↑
+              "I like working down here."
 
+// OPEN SOURCE
 
+Open source is where I prefer to learn: real code, real maintainers, real constraints, real users.
 
+🍊 OWASP Juice Shop / MultiJuicer
 
-Systems / Security / Infrastructure
+Contributed configurable custom balancer-logo support to MultiJuicer, later included in the project release cycle.
 
+📡 Sniffnet
 
+Worked on connection-latency visibility in the Rust-based network monitoring project.
 
+🛰️ VX6
 
+My main open-source networking project — built publicly for people interested in IPv6, P2P networking, privacy, distributed systems, and self-hosting.
 
+🔬 Systems ecosystem
 
+I actively explore and contribute around Linux, eBPF/observability, runtime security, networking, operating systems, and developer tooling.
 
 
 
+// RESEARCH MODE
 
-:::
+current_interests:
 
-04 // OPEN SOURCE SIGNAL
+  operating_systems:
+    - kernel architecture
+    - deterministic / replay-oriented execution
+    - schedulers, VFS, memory and syscalls
+    - low-level observability
 
-I like contributing where systems, networking and security meet.
+  networking:
+    - IPv6-first infrastructure
+    - decentralized service discovery
+    - peer-to-peer overlay networks
+    - SDN and packet processing
 
-🧃 OWASP Juice Shop / MultiJuicer --- contributed configurable
-custom balancer-logo support, included in the v10.1.0 release.
+  security:
+    - kernel / runtime security
+    - reverse engineering
+    - threat intelligence and OSINT
+    - secure distributed systems
 
-📡 Sniffnet --- worked on connection-latency visibility in the
-Rust network-monitoring project.
+  linux:
+    - eBPF
+    - tracing
+    - namespaces
+    - networking internals
 
-🐧 Linux ecosystem --- kernel experimentation, tooling,
-packaging and low-level debugging.
+optimization_target:
+  "technically difficult work that teaches me something real"
 
-🤝 VX6 --- building in public and actively looking for
-contributors interested in IPv6, distributed systems, privacy and
-networking.
+// GITHUB TELEMETRY
 
-I care more about understanding the code path than collecting
-contribution badges.
 
-05 // CURRENT RESEARCH INTERESTS
 
-systems:
-  - operating-system design
-  - kernel tracing and runtime observability
-  - deterministic / replay-oriented execution
-  - eBPF and Linux internals
 
-networking:
-  - IPv6-first infrastructure
-  - peer-to-peer overlays
-  - decentralized service discovery
-  - packet processing and SDN
 
-security:
-  - kernel and runtime security
-  - reverse engineering
-  - threat intelligence / OSINT
-  - secure distributed systems
 
-currently_optimizing_for:
-  - technically difficult open-source work
-  - research that can survive implementation
-  - software that teaches me how the machine actually works
 
-06 // GITHUB TELEMETRY
 
-::: {align="center"}
-<img src="https://github-readme-stats.vercel.app/api?username=ethical-buddy&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="165" alt="GitHub stats" />{=html}
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethical-buddy&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="165" alt="Top languages" />{=html}
 
-<br/>{=html}
+Note: language cards show repository composition — not a ranking of engineering ability.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ethical-buddy&theme=github-compact&hide_border=true&area=true" width="95%" alt="Contribution graph" />{=html}
-:::
-
-GitHub language cards measure repository code, not engineering
-proficiency.
-
-07 // STATUS
+// CURRENT PROCESS
 
 package main
 
 import "fmt"
 
 func main() {
-    engineer := struct {
-        Building  []string
-        Learning  []string
-        OpenTo    []string
-    }{
+    me := Engineer{
         Building: []string{
             "IPv6-native distributed infrastructure",
-            "kernel / OS experiments",
-            "security & networking tools",
+            "operating-system and kernel experiments",
+            "security + networking tools",
         },
-        Learning: []string{
-            "deeper Linux internals",
-            "distributed-systems failure modes",
+
+        Studying: []string{
+            "Linux internals",
             "high-performance packet processing",
+            "distributed-system failure modes",
+            "runtime security",
         },
+
         OpenTo: []string{
             "systems engineering",
             "security engineering",
@@ -256,13 +221,34 @@ func main() {
         },
     }
 
-    fmt.Println(engineer)
+    fmt.Println(me)
 }
 
-08 // FIND ME
+// SIGNAL > NOISE
 
-root@ethical-buddy:~# _
 
-I don't just want to use systems. I want to know why they work, where
-they fail, and how to build better ones.
 
+
+
+
+
+┌─ ethical-buddy@github
+│
+├─ build things close to the machine
+├─ read the implementation
+├─ question assumptions
+├─ contribute upstream
+├─ document what I learn
+└─ repeat
+
+// CONNECT
+
+
+
+
+
+
+
+
+
+“I don't just want to use systems. I want to know why they work, where they fail, and how to build better ones.”
