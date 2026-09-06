@@ -1,185 +1,282 @@
-<!-- README.md -->
-<!-- 🔥 Reliable Hacker-Styled Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=900&height=40&lines=echo+Initializing+ethical-buddy+profile...;chmod+1337+everything;Welcome+to+my+GitHub+terminal" alt="Typing SVG" />
-</p>
+::: {align="center"}
 
-<h1 align="center">Hi 👋, I'm ethical-buddy</h1>
-<h3 align="center">🔐 Security-focused dev | 🖥️ Terminal enthusiast | ⚙️ DevOps gremlin</h3>
+SURYANSH DESHWAL // ethical-buddy
 
----
+Systems & Security Engineer · Kernel Hacker · Network Builder · Open-Source Developer
 
-## 🧠 The Philosophy
-> **_"Everything is a file. Everything is a process. Everything is an exploit waiting to be discovered."_**
 
-I build secure systems from the ground up, starting at the kernel. Passionate about low-level systems, cybersecurity, and turning theoretical exploits into bulletproof code.
 
----
 
-## 📊 GitHub Stats & Activity
 
-<div align="center">
-  <a href="https://github.com/ethical-buddy">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ethical-buddy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00ff00&icon_color=00ff00" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/ethical-buddy">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethical-buddy&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00ff00" alt="Top Languages" />
-  </a>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethical-buddy&theme=tokyonight&hide_border=true&background=1a1b26&stroke=00ff00&ring=00ff00&fire=ff6b00" alt="GitHub Streak" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=39FF14&center=true&vCenter=true&width=900&lines=%24+booting+ethical-buddy...;%24+building+kernels+%7C+networks+%7C+security+tools;%24+IPv6-native.+Linux-first.+Open-source.;%24+understand+the+system+%3E+trust+the+abstraction" alt="Typing SVG" />{=html}
+:::
 
----
-### 📈 Productivity Chart
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ethical-buddy&theme=tokyo-night&area=true&hide_border=true" width="100%">
-</p>
----
+ethical-buddy@github:~$ whoami
 
-## 📌 Pinned Repositories
+Name       : Suryansh Deshwal
+Role       : Systems & Security Engineer
+Focus      : Kernels · Networking · Distributed Systems · Cybersecurity
+Languages  : Go · C/C++ · Rust · Python · x86-64 Assembly · Bash
+Mode       : Build low. Break assumptions. Ship useful systems.
 
-<div align="center">
+I work close to the machine: operating systems, Linux internals,
+networking, distributed systems, eBPF, security tooling and
+infrastructure.
 
-**⭐ My Best Work - Check These Out ⭐**
+Most of my projects start with a question like:
 
-</div>
+"What happens if I remove the abstraction and build the thing
+myself?"
 
-<!-- Pin your top 6 repositories here -->
-<!-- Replace the URLs and descriptions with your actual repos -->
+That has led me to build an IPv6-native overlay network, a
+POSIX-inspired operating system, Linux tooling, dark-web/OSINT
+infrastructure, and security research projects.
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/ethical-buddy/vx6">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethical-buddy&repo=repo-name-1&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00ff00&icon_color=00ff00" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/ethical-buddy/Bumbellbee">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethical-buddy&repo=repo-name-2&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00ff00&icon_color=00ff00" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/ethical-buddy/Knot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethical-buddy&repo=repo-name-3&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00ff00&icon_color=00ff00" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/ethical-buddy/TORONS">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethical-buddy&repo=repo-name-4&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00ff00&icon_color=00ff00" />
-      </a>
-    </td>
-  </tr>
+01 // FEATURED SYSTEMS
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+🌐 VX6
+
+IPv6-native decentralized self-hosting fabric
+
+Bring a service from localhost on one machine to localhost on
+another without building your workflow around public IPv4, conventional
+port-forwarding, or a central controller.
+
+Go IPv6 P2P DHT Cryptography Networking
+
+
+
+
+
+→ vx6.tech
+
+</td>
+
+<td width="50%" valign="top">
+
+🐝 BumbelBee
+
+Operating system built from scratch
+
+A POSIX-inspired OS project for learning and experimenting with kernels
+from the bottom up: boot flow, memory, interrupts, processes, syscalls
+and low-level execution.
+
+C Assembly x86-64 Kernel OSDev QEMU
+
+
+
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+🗂️ Vimgo
+
+Terminal-first Linux file manager in Go
+
+Fast file traversal with a keyboard-driven workflow and Vim-oriented
+interaction --- built for people who would rather stay inside a
+terminal.
+
+Go Linux TUI CLI Vim
+
+
+
+
+</td>
+
+<td width="50%" valign="top">
+
+🧠 KERNEL-HACKING
+
+Experiments below the userspace boundary
+
+A playground for understanding kernel behavior, internals and security
+through practical experiments rather than treating the kernel as a black
+box.
+
+Linux Kernel Security Python Research
+
+
+
+</td>
+
+</tr>
+
 </table>
----
 
-## 🧰 Tech Arsenal
+02 // WHAT I BUILD
 
-### 🖥️ Programming & Scripting
-```
-🧬 C/C++            🐍 Python            🐚 Bash
-🚀 Go               💾 Assembly (x86/x64) 🦀 Rust
-🌀 JavaScript       ⚡ TypeScript
-```
+┌──────────────────── SYSTEMS ────────────────────┐
+│ kernels · syscalls · schedulers · memory · VFS │
+│ bootloaders · interrupts · tracing · eBPF      │
+└────────────────────────┬────────────────────────┘
+                         │
+                         ▼
+┌─────────────────── NETWORKING ──────────────────┐
+│ IPv6 · P2P · overlays · raw sockets · routing  │
+│ DHTs · tunnels · packet processing · SDN       │
+└────────────────────────┬────────────────────────┘
+                         │
+                         ▼
+┌──────────────────── SECURITY ───────────────────┐
+│ reverse engineering · OSINT · CTI · hardening  │
+│ runtime security · attack research · tooling   │
+└────────────────────────┬────────────────────────┘
+                         │
+                         ▼
+┌───────────────── INFRASTRUCTURE ────────────────┐
+│ Linux · Docker · Kubernetes · CI/CD · systemd  │
+│ observability · automation · distributed apps  │
+└─────────────────────────────────────────────────┘
 
-### 🛠️ Systems & Low-Level
-```
-🔧 Linux Syscalls   🧠 Memory Manipulation    🧵 Thread Injection
-🔍 /proc & ptrace   🌐 Raw Sockets           🧪 Syscall Tracing
-🔬 Kernel Modules   🎯 Exploit Development
-```
+03 // ENGINEERING TOOLBOX
 
-### 🔐 Cybersecurity & Tooling
-```
-🌐 Nmap             📡 Wireshark             🧨 GDB
-🔎 Radare2          📍 pwndbg                🧫 Reverse Engineering
-🛡️ iptables/nftables 🧱 Firewall Rules       📊 Network Analysis
-💻 Netcat/socat     🧪 QEMU/KVM Labs         🐚 Exploitation
-```
+::: {align="center"}
 
-### 🗃️ Infrastructure & DevOps
-```
-🐳 Docker           🧩 Kubernetes            🔑 OpenSSH
-🔁 Git/Gitea        🧭 Neovim               🧵 Tmux
-🧮 Linux Profiling  📡 Systemd              🚀 CI/CD Pipelines
-```
+Languages
 
----
 
-## 🚀 Current Projects
 
-| Project | Status | Description |
-|---------|--------|-------------|
-| 🕸️ **Decentralized Crawling Infrastructure** | 🔨 Active | Distributed web crawling with protocol optimization |
-| 🐚 **Shell Injection Frameworks** | 🔨 Active | Real-time injection & execution analysis |
-| 🗂️ **Terminal File Manager** | 🔨 In Progress | TUI-based file management system |
-| 🌐 **SDN Protocol Suite** | 🔨 Active | Rust-based networking protocols |
-| 🧬 **UNIX-like OS Kernel** | 📚 Research | Modular kernel design & implementation |
 
----
 
-## 🏆 Highlights & Achievements
 
-- **Security Research**: Focused on syscall abuse, memory exploitation, and kernel-level security
-- **Low-Level Mastery**: Comfortable working with assembly, memory layout, and process internals
-- **DevOps Excellence**: Containerization, orchestration, and secure infrastructure
-- **Terminal Power User**: Vim/Neovim, tmux, shell scripting mastery, helix, Zellij, ricing
-- **AI in Security**: Exploring machine learning for threat detection & vulnerability discovery
 
----
 
-## 🎓 Learning & Growth
 
-Currently diving deeper into:
-- Advanced reverse engineering techniques
-- Kernel exploitation & defense mechanisms
-- Rust systems programming
-- Distributed systems security
-- Threat modeling & security architecture
+Systems / Security / Infrastructure
 
----
 
-## 🌐 Connect & Collaborate
 
-<div align="center">
 
-| Platform | Link |
-|----------|------|
-| 📧 **Email** | [suryanshdeshwal@gmail.com](mailto:suryanshdeshwal@gmail.com) |
-| 💼 **GitHub** | [@ethical-buddy](https://github.com/ethical-buddy) |
-| 🌍 **Portfolio** | [Suryansh-Deshwal](https://suryansh-deshwal.vercel.app/) |
-| 🔗 **LinkedIn** | [Suryansh Deshwal](https://www.linkedin.com/in/suryansh-deshwal) |
-| ☕ **Support** | [Buy Me A Coffee](https://github.com/sponsors/ethical-buddy) |
 
-</div>
 
----
 
-## 🛠️ Quick Links
 
-<div align="center">
 
-[![View My Portfolio](https://img.shields.io/badge/View_Portfolio-000?style=for-the-badge&logo=web&logoColor=white)](https://suryansh-deshwal.vercel.app/)
-[![Check My GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ethical-buddy)
-[![Email Me](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryanshdeshwal@gmail.com)
 
-</div>
----
+:::
 
----
+04 // OPEN SOURCE SIGNAL
 
-<div align="center">
+I like contributing where systems, networking and security meet.
 
-### 🔓 _"The best security is understanding how things can break"_
+🧃 OWASP Juice Shop / MultiJuicer --- contributed configurable
+custom balancer-logo support, included in the v10.1.0 release.
 
----
+📡 Sniffnet --- worked on connection-latency visibility in the
+Rust network-monitoring project.
 
-**Last Updated**: 2025 | Made with ❤️ & `while(true) { code(); }`
+🐧 Linux ecosystem --- kernel experimentation, tooling,
+packaging and low-level debugging.
 
-[⬆ Back to Top](#hi--im-ethical-buddy)
+🤝 VX6 --- building in public and actively looking for
+contributors interested in IPv6, distributed systems, privacy and
+networking.
 
-</div>
+I care more about understanding the code path than collecting
+contribution badges.
+
+05 // CURRENT RESEARCH INTERESTS
+
+systems:
+  - operating-system design
+  - kernel tracing and runtime observability
+  - deterministic / replay-oriented execution
+  - eBPF and Linux internals
+
+networking:
+  - IPv6-first infrastructure
+  - peer-to-peer overlays
+  - decentralized service discovery
+  - packet processing and SDN
+
+security:
+  - kernel and runtime security
+  - reverse engineering
+  - threat intelligence / OSINT
+  - secure distributed systems
+
+currently_optimizing_for:
+  - technically difficult open-source work
+  - research that can survive implementation
+  - software that teaches me how the machine actually works
+
+06 // GITHUB TELEMETRY
+
+::: {align="center"}
+<img src="https://github-readme-stats.vercel.app/api?username=ethical-buddy&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="165" alt="GitHub stats" />{=html}
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethical-buddy&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="165" alt="Top languages" />{=html}
+
+<br/>{=html}
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ethical-buddy&theme=github-compact&hide_border=true&area=true" width="95%" alt="Contribution graph" />{=html}
+:::
+
+GitHub language cards measure repository code, not engineering
+proficiency.
+
+07 // STATUS
+
+package main
+
+import "fmt"
+
+func main() {
+    engineer := struct {
+        Building  []string
+        Learning  []string
+        OpenTo    []string
+    }{
+        Building: []string{
+            "IPv6-native distributed infrastructure",
+            "kernel / OS experiments",
+            "security & networking tools",
+        },
+        Learning: []string{
+            "deeper Linux internals",
+            "distributed-systems failure modes",
+            "high-performance packet processing",
+        },
+        OpenTo: []string{
+            "systems engineering",
+            "security engineering",
+            "open-source collaboration",
+            "research",
+        },
+    }
+
+    fmt.Println(engineer)
+}
+
+08 // FIND ME
+
+::: {align="center"}
+
+
+
+
+:::
+
+::: {align="center"}
+
+root@ethical-buddy:~# _
+
+I don't just want to use systems. I want to know why they work, where
+they fail, and how to build better ones.
+
+<sub>{=html}Linux-first · Open-source · Low-level by
+choice</sub>{=html}
+:::
