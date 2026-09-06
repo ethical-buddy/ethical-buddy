@@ -1,0 +1,291 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <base href="../">
+  <title>README.terminal.md preview</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #0d1117;
+      --panel: #161b22;
+      --border: #30363d;
+      --text: #e6edf3;
+      --muted: #8b949e;
+      --link: #58a6ff;
+      --code: #161b22;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    }
+    .shell {
+      max-width: 1060px;
+      margin: 0 auto;
+      padding: 24px;
+    }
+    .toolbar {
+      position: sticky;
+      top: 0;
+      z-index: 5;
+      background: rgba(13, 17, 23, .92);
+      backdrop-filter: blur(10px);
+      border-bottom: 1px solid var(--border);
+    }
+    .toolbar-inner {
+      max-width: 1060px;
+      margin: 0 auto;
+      padding: 10px 24px;
+      display: flex;
+      gap: 10px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+    .toolbar a, .toolbar span {
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 6px 10px;
+      text-decoration: none;
+      background: var(--panel);
+      font-size: 13px;
+    }
+    .toolbar span { color: var(--muted); }
+    .markdown-body {
+      max-width: 1012px;
+      margin: 0 auto;
+      padding: 32px;
+      background: var(--bg);
+      color: var(--text);
+    }
+    .markdown-body a { color: var(--link); }
+    .markdown-body img { max-width: 100%; }
+    .markdown-body h1, .markdown-body h2, .markdown-body h3 {
+      margin-top: 24px;
+      margin-bottom: 16px;
+      font-weight: 600;
+      line-height: 1.25;
+    }
+    .markdown-body h1 { font-size: 2em; border-bottom: 1px solid var(--border); padding-bottom: .3em; }
+    .markdown-body h2 { font-size: 1.5em; border-bottom: 1px solid var(--border); padding-bottom: .3em; }
+    .markdown-body h3 { font-size: 1.25em; }
+    .markdown-body p, .markdown-body ul, .markdown-body table, .markdown-body pre { margin-top: 0; margin-bottom: 16px; }
+    .markdown-body code {
+      padding: .2em .4em;
+      margin: 0;
+      font-size: 85%;
+      white-space: break-spaces;
+      background-color: rgba(110,118,129,.4);
+      border-radius: 6px;
+    }
+    .markdown-body pre {
+      padding: 16px;
+      overflow: auto;
+      font-size: 85%;
+      line-height: 1.45;
+      background-color: var(--code);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+    }
+    .markdown-body pre code {
+      padding: 0;
+      background: transparent;
+      white-space: pre;
+    }
+    .markdown-body table {
+      display: block;
+      width: max-content;
+      max-width: 100%;
+      overflow: auto;
+      border-spacing: 0;
+      border-collapse: collapse;
+    }
+    .markdown-body td, .markdown-body th {
+      padding: 6px 13px;
+      border: 1px solid var(--border);
+      vertical-align: top;
+    }
+    .markdown-body tr { background-color: var(--bg); border-top: 1px solid var(--border); }
+    .markdown-body tr:nth-child(2n) { background-color: var(--panel); }
+    .markdown-body blockquote {
+      padding: 0 1em;
+      color: var(--muted);
+      border-left: .25em solid var(--border);
+      margin: 0 0 16px;
+    }
+    .markdown-body details {
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 12px 14px;
+      margin-bottom: 12px;
+      background: rgba(22, 27, 34, .55);
+    }
+    .markdown-body summary { cursor: pointer; }
+    @media (max-width: 700px) {
+      .shell { padding: 12px; }
+      .markdown-body { padding: 18px; }
+      .markdown-body h1 { font-size: 1.65em; }
+    }
+  </style>
+</head>
+<body>
+  <nav class="toolbar">
+    <div class="toolbar-inner">
+      <span>GitHub-style local preview</span>
+      <a href="previews/README.visual.html">visual</a>
+      <a href="previews/README.terminal.html">terminal</a>
+      <a href="previews/README.lab.html">lab</a>
+      <a href="README.terminal.md">source markdown</a>
+    </div>
+  </nav>
+  <main class="shell">
+    <article class="markdown-body">
+<h1 align="center">ethical-buddy@github</h1>
+<p align="center">
+  <img src="ethical-buddy/assets/banner.png" alt="terminal banner for ethical-buddy" width="100%" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
+  <img src="https://img.shields.io/badge/Kernel-ef4444?style=for-the-badge" alt="Kernel">
+  <img src="https://img.shields.io/badge/Networking-00d4ff?style=for-the-badge" alt="Networking">
+  <img src="https://img.shields.io/badge/Security-22c55e?style=for-the-badge" alt="Security">
+</p>
+<pre><code class="language-console">$ ssh github.com/ethical-buddy
+
+╭────────────────────────────────────────────────────────────────────╮
+│ Suryansh Deshwal                                                   │
+│ Systems . Security . Kernels . Networks . Open Source              │
+╰────────────────────────────────────────────────────────────────────╯
+
+&gt; load profile
+  role       Systems &amp; Security Engineer
+  stack      Go, C/C++, Rust, Python, x86-64 Assembly, Bash
+  platform   Linux
+  editor     Neovim / Vim
+  target     technically difficult work that teaches something real
+
+&gt; current thesis
+  abstractions are useful, but the interesting bugs live underneath.
+</code></pre>
+<h2><code>/home/ethical-buddy/projects</code></h2>
+<pre><code class="language-text">.
+├── vx6/
+│   ├── ipv6-native node runtime
+│   ├── encrypted forwarding and relays
+│   ├── DHT-backed service discovery
+│   └── peer-to-peer infrastructure
+├── bumbelbee/
+│   ├── boot to userspace
+│   ├── memory, interrupts, syscalls
+│   └── POSIX-inspired OS experiments
+├── vimgo/
+│   ├── terminal-first file manager
+│   ├── keyboard-driven Linux workflow
+│   └── Go TUI tooling
+└── kernel-hacking/
+    ├── eBPF, tracing, syscalls
+    ├── low-level Linux experiments
+    └── security through implementation detail
+</code></pre>
+<h2><code>./map --layers</code></h2>
+<pre><code class="language-text">             applications  ── CLIs, CTI, automation, services
+        distributed systems ── P2P, DHTs, relays, identity, crypto
+                  network   ── IPv6, routing, raw sockets, packets
+           linux / kernel   ── eBPF, syscalls, VFS, memory, tracing
+                 hardware   ── x86-64, boot, interrupts, CPU state
+</code></pre>
+<h2><code>./stack --badges</code></h2>
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,rust,python,bash,linux,git,docker,vim" alt="systems stack icons" />
+</p>
+<table>
+<thead>
+<tr>
+<th>Tool</th>
+<th>Mode</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>C / C++</td>
+<td>kernels, systems, networking, performance</td>
+</tr>
+<tr>
+<td>Go</td>
+<td>distributed services, network software, infrastructure</td>
+</tr>
+<tr>
+<td>Rust</td>
+<td>safe systems programming and security tooling</td>
+</tr>
+<tr>
+<td>Python</td>
+<td>research tooling, automation, CTI / OSINT</td>
+</tr>
+<tr>
+<td>Assembly</td>
+<td>x86-64, boot flow, architecture debugging</td>
+</tr>
+<tr>
+<td>Bash</td>
+<td>Linux automation, build systems, operations</td>
+</tr>
+</tbody>
+</table>
+<h2><code>./research --interactive</code></h2>
+<details open>
+<summary><b>open operating_systems.yml</b></summary>
+<pre><code class="language-yaml">operating_systems:
+  - kernel architecture
+  - deterministic / replay-oriented execution
+  - schedulers, VFS, memory and syscalls
+  - low-level observability
+</code></pre>
+</details>
+<details>
+<summary><b>open networking.yml</b></summary>
+<pre><code class="language-yaml">networking:
+  - IPv6-first infrastructure
+  - decentralized service discovery
+  - peer-to-peer overlay networks
+  - SDN and packet processing
+</code></pre>
+</details>
+<details>
+<summary><b>open security.yml</b></summary>
+<pre><code class="language-yaml">security:
+  - kernel / runtime security
+  - reverse engineering
+  - threat intelligence and OSINT
+  - secure distributed systems
+</code></pre>
+</details>
+<h2><code>./telemetry</code></h2>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ethical-buddy&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethical-buddy&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ethical-buddy&theme=github-compact&hide_border=true" alt="GitHub activity graph" />
+</p>
+<h2><code>./connect</code></h2>
+<pre><code class="language-text">signal &gt; noise
+
+build things close to the machine
+read the implementation
+question assumptions
+contribute upstream
+document what you learn
+repeat
+</code></pre>
+<p align="center">
+  <b>I do not just want to use systems. I want to know why they work, where they fail, and how to build better ones.</b>
+</p>
+    </article>
+  </main>
+</body>
+</html>
