@@ -1,131 +1,149 @@
-<p align="center">
-  <img src="ethical-buddy/assets/banner.png" alt="Suryansh Deshwal lab banner" width="100%" />
-</p>
-
-<h1 align="center">Systems Lab: Suryansh Deshwal</h1>
+<h1 align="center">ethical-buddy@github</h1>
 
 <p align="center">
-  <b>Building near the kernel boundary.</b><br/>
-  Linux internals . IPv6-native networking . OSDev . security research . distributed infrastructure
+  <img src="ethical-buddy/assets/banner.png" alt="terminal banner for ethical-buddy" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-building-22c55e?style=for-the-badge" alt="building">
-  <img src="https://img.shields.io/badge/mode-research-00d4ff?style=for-the-badge" alt="research">
-  <img src="https://img.shields.io/badge/platform-linux-111827?style=for-the-badge&logo=linux" alt="linux">
+  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
+  <img src="https://img.shields.io/badge/Kernel-ef4444?style=for-the-badge" alt="Kernel">
+  <img src="https://img.shields.io/badge/Networking-00d4ff?style=for-the-badge" alt="Networking">
+  <img src="https://img.shields.io/badge/Security-22c55e?style=for-the-badge" alt="Security">
 </p>
 
-## Lab Console
+```console
+$ ssh github.com/ethical-buddy
 
-```text
-┌─ experiment queue ─────────────────────────────────────────────────┐
-│ 01  VX6             decentralized IPv6-first networking runtime     │
-│ 02  BumbelBee       operating system from scratch                   │
-│ 03  Vimgo           keyboard-driven terminal file manager           │
-│ 04  KERNEL-HACKING  experiments below userspace                     │
-└────────────────────────────────────────────────────────────────────┘
+╭────────────────────────────────────────────────────────────────────╮
+│ Suryansh Deshwal                                                   │
+│ Systems . Security . Kernels . Networks . Open Source              │
+╰────────────────────────────────────────────────────────────────────╯
+
+> load profile
+  role       Systems & Security Engineer
+  stack      Go, C/C++, Rust, Python, x86-64 Assembly, Bash
+  platform   Linux
+  editor     Neovim / Vim
+  target     technically difficult work that teaches something real
+
+> current thesis
+  abstractions are useful, but the interesting bugs live underneath.
 ```
 
-## Active Experiments
-
-| Experiment | What it explores | Materials |
-| --- | --- | --- |
-| VX6 | service discovery, encrypted forwarding, relays, DHT lookup, persistent node identity | Go, IPv6, crypto, P2P |
-| BumbelBee | boot flow, memory, interrupts, syscalls, processes, filesystems | C, x86-64 asm, QEMU |
-| Vimgo | terminal-native workflows and keyboard-first file management | Go, Linux, TUI |
-| KERNEL-HACKING | Linux internals and security through practical experiments | eBPF, tracing, syscalls |
-
-## System Cross Section
+## `/home/ethical-buddy/projects`
 
 ```text
-                user workflows
-                     │
-        ┌────────────▼────────────┐
-        │ security tools / CLIs   │
-        └────────────┬────────────┘
-                     │
-        ┌────────────▼────────────┐
-        │ distributed runtime      │
-        │ identity . DHT . relays  │
-        └────────────┬────────────┘
-                     │
-        ┌────────────▼────────────┐
-        │ network layer            │
-        │ IPv6 . packets . tunnels │
-        └────────────┬────────────┘
-                     │
-        ┌────────────▼────────────┐
-        │ Linux / kernel boundary  │
-        │ syscalls . eBPF . VFS    │
-        └────────────┬────────────┘
-                     │
-        ┌────────────▼────────────┐
-        │ hardware                 │
-        │ boot . CPU . interrupts  │
-        └─────────────────────────┘
+.
+├── vx6/
+│   ├── ipv6-native node runtime
+│   ├── encrypted forwarding and relays
+│   ├── DHT-backed service discovery
+│   └── peer-to-peer infrastructure
+├── bumbelbee/
+│   ├── boot to userspace
+│   ├── memory, interrupts, syscalls
+│   └── POSIX-inspired OS experiments
+├── vimgo/
+│   ├── terminal-first file manager
+│   ├── keyboard-driven Linux workflow
+│   └── Go TUI tooling
+└── kernel-hacking/
+    ├── eBPF, tracing, syscalls
+    ├── low-level Linux experiments
+    └── security through implementation detail
 ```
 
-## Tools On The Bench
+## `./map --layers`
+
+```text
+             applications  ── CLIs, CTI, automation, services
+        distributed systems ── P2P, DHTs, relays, identity, crypto
+                  network   ── IPv6, routing, raw sockets, packets
+           linux / kernel   ── eBPF, syscalls, VFS, memory, tracing
+                 hardware   ── x86-64, boot, interrupts, CPU state
+```
+
+## `./stack --badges`
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,go,rust,python,bash,linux,docker,git,vim" alt="C, C++, Go, Rust, Python, Bash, Linux, Docker, Git, Vim" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,rust,python,bash,linux,git,docker,vim" alt="systems stack icons" />
 </p>
 
-<details open>
-<summary><b>Languages</b></summary>
-
-| Language | Where it fits |
+| Tool | Mode |
 | --- | --- |
 | C / C++ | kernels, systems, networking, performance |
-| Go | network daemons, distributed services, infrastructure |
-| Rust | safe systems programming, security tooling |
-| Python | research automation, OSINT, CTI tooling |
+| Go | distributed services, network software, infrastructure |
+| Rust | safe systems programming and security tooling |
+| Python | research tooling, automation, CTI / OSINT |
 | Assembly | x86-64, boot flow, architecture debugging |
-| Bash | Linux automation and build workflows |
+| Bash | Linux automation, build systems, operations |
+
+## `./research --interactive`
+
+<details open>
+<summary><b>open operating_systems.yml</b></summary>
+
+```yaml
+operating_systems:
+  - kernel architecture
+  - deterministic / replay-oriented execution
+  - schedulers, VFS, memory and syscalls
+  - low-level observability
+```
 
 </details>
 
 <details>
-<summary><b>Open source notes</b></summary>
+<summary><b>open networking.yml</b></summary>
 
-- OWASP Juice Shop / MultiJuicer: configurable custom balancer-logo support.
-- Sniffnet: connection-latency visibility in a Rust network monitoring project.
-- VX6: public IPv6, P2P, privacy, and self-hosting infrastructure work.
-- Systems ecosystem: Linux, eBPF, observability, runtime security, networking, OSDev, tooling.
+```yaml
+networking:
+  - IPv6-first infrastructure
+  - decentralized service discovery
+  - peer-to-peer overlay networks
+  - SDN and packet processing
+```
 
 </details>
 
 <details>
-<summary><b>Research backlog</b></summary>
+<summary><b>open security.yml</b></summary>
 
-- deterministic and replay-oriented execution
-- high-performance packet processing
-- peer-to-peer failure modes
-- kernel / runtime security
-- low-level observability
+```yaml
+security:
+  - kernel / runtime security
+  - reverse engineering
+  - threat intelligence and OSINT
+  - secure distributed systems
+```
 
 </details>
 
-## Telemetry
+## `./telemetry`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ethical-buddy&show_icons=true&theme=merko&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethical-buddy&layout=compact&theme=merko&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ethical-buddy&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethical-buddy&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ethical-buddy&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub profile trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ethical-buddy&theme=github-compact&hide_border=true" alt="GitHub activity graph" />
 </p>
 
-## Operating Principle
+## `./connect`
 
-```go
-func Target() string {
-    return "technically difficult work that teaches something real"
-}
+```text
+signal > noise
+
+build things close to the machine
+read the implementation
+question assumptions
+contribute upstream
+document what you learn
+repeat
 ```
 
 <p align="center">
-  <b>Read the implementation. Question the abstraction. Ship the system.</b>
+  <b>I do not just want to use systems. I want to know why they work, where they fail, and how to build better ones.</b>
 </p>
 
