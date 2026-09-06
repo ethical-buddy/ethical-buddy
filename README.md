@@ -1,5 +1,3 @@
-::: {align="center"}
-
 SURYANSH DESHWAL // ethical-buddy
 
 Systems & Security Engineer · Kernel Hacker · Network Builder · Open-Source Developer
@@ -263,20 +261,8 @@ func main() {
 
 08 // FIND ME
 
-::: {align="center"}
-
-
-
-
-:::
-
-::: {align="center"}
-
 root@ethical-buddy:~# _
 
 I don't just want to use systems. I want to know why they work, where
 they fail, and how to build better ones.
 
-<sub>{=html}Linux-first · Open-source · Low-level by
-choice</sub>{=html}
-:::
