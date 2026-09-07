@@ -1,42 +1,181 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <base href="../">
+  <title>README-visual.md preview</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #0d1117;
+      --panel: #161b22;
+      --border: #30363d;
+      --text: #e6edf3;
+      --muted: #8b949e;
+      --link: #58a6ff;
+      --code: #161b22;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    }
+    .shell {
+      max-width: 1060px;
+      margin: 0 auto;
+      padding: 24px;
+    }
+    .toolbar {
+      position: sticky;
+      top: 0;
+      z-index: 5;
+      background: rgba(13, 17, 23, .92);
+      backdrop-filter: blur(10px);
+      border-bottom: 1px solid var(--border);
+    }
+    .toolbar-inner {
+      max-width: 1060px;
+      margin: 0 auto;
+      padding: 10px 24px;
+      display: flex;
+      gap: 10px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+    .toolbar a, .toolbar span {
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 6px 10px;
+      text-decoration: none;
+      background: var(--panel);
+      font-size: 13px;
+    }
+    .toolbar span { color: var(--muted); }
+    .markdown-body {
+      max-width: 1012px;
+      margin: 0 auto;
+      padding: 32px;
+      background: var(--bg);
+      color: var(--text);
+    }
+    .markdown-body a { color: var(--link); }
+    .markdown-body img { max-width: 100%; }
+    .markdown-body h1, .markdown-body h2, .markdown-body h3 {
+      margin-top: 24px;
+      margin-bottom: 16px;
+      font-weight: 600;
+      line-height: 1.25;
+    }
+    .markdown-body h1 { font-size: 2em; border-bottom: 1px solid var(--border); padding-bottom: .3em; }
+    .markdown-body h2 { font-size: 1.5em; border-bottom: 1px solid var(--border); padding-bottom: .3em; }
+    .markdown-body h3 { font-size: 1.25em; }
+    .markdown-body p, .markdown-body ul, .markdown-body table, .markdown-body pre { margin-top: 0; margin-bottom: 16px; }
+    .markdown-body code {
+      padding: .2em .4em;
+      margin: 0;
+      font-size: 85%;
+      white-space: break-spaces;
+      background-color: rgba(110,118,129,.4);
+      border-radius: 6px;
+    }
+    .markdown-body pre {
+      padding: 16px;
+      overflow: auto;
+      font-size: 85%;
+      line-height: 1.45;
+      background-color: var(--code);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+    }
+    .markdown-body pre code {
+      padding: 0;
+      background: transparent;
+      white-space: pre;
+    }
+    .markdown-body table {
+      display: block;
+      width: max-content;
+      max-width: 100%;
+      overflow: auto;
+      border-spacing: 0;
+      border-collapse: collapse;
+    }
+    .markdown-body td, .markdown-body th {
+      padding: 6px 13px;
+      border: 1px solid var(--border);
+      vertical-align: top;
+    }
+    .markdown-body tr { background-color: var(--bg); border-top: 1px solid var(--border); }
+    .markdown-body tr:nth-child(2n) { background-color: var(--panel); }
+    .markdown-body blockquote {
+      padding: 0 1em;
+      color: var(--muted);
+      border-left: .25em solid var(--border);
+      margin: 0 0 16px;
+    }
+    .markdown-body details {
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 12px 14px;
+      margin-bottom: 12px;
+      background: rgba(22, 27, 34, .55);
+    }
+    .markdown-body summary { cursor: pointer; }
+    @media (max-width: 700px) {
+      .shell { padding: 12px; }
+      .markdown-body { padding: 18px; }
+      .markdown-body h1 { font-size: 1.65em; }
+    }
+  </style>
+</head>
+<body>
+  <nav class="toolbar">
+    <div class="toolbar-inner">
+      <span>GitHub-style local preview</span>
+      <a href="previews/README-visual.html">visual</a>
+      <a href="previews/README.terminal.html">terminal</a>
+      <a href="previews/README.lab.html">lab</a>
+      <a href="README-visual.md">source markdown</a>
+    </div>
+  </nav>
+  <main class="shell">
+    <article class="markdown-body">
 <p align="center">
   <img src="ethical-buddy/assets/generated/profile-hero.png" alt="Suryansh Deshwal @ethical-buddy - systems, security, kernels, networks" width="100%" />
 </p>
-
 <p align="center">
   <a href="https://github.com/ethical-buddy"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-ethical--buddy-111827?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://suryansh-deshwal.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-suryansh--deshwal-00d4ff?style=for-the-badge&logo=vercel&logoColor=06121f"></a>
   <a href="https://www.linkedin.com/in/suryansh-deshwal-7372b0262"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Suryansh%20Deshwal-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/47-public%20repos-22c55e?style=flat-square" alt="47 public repositories">
   <img src="https://img.shields.io/badge/69-profile%20stars-facc15?style=flat-square" alt="69 GitHub stars">
   <img src="https://img.shields.io/badge/59-followers-00d4ff?style=flat-square" alt="59 GitHub followers">
   <img src="https://img.shields.io/badge/India-systems%20builder-f97316?style=flat-square" alt="India">
 </p>
-
 <h2 align="center">Systems & Security Engineer building close to the machine.</h2>
-
 <p align="center">
   <b>OSDev . Linux internals . IPv6/P2P networking . eBPF . CTI/OSINT . distributed infrastructure</b>
 </p>
-
-```console
-ethical-buddy@github:~$ ./profile --load
+<pre><code class="language-console">ethical-buddy@github:~$ ./profile --load
 
 USER        Suryansh Deshwal
 HANDLE      ethical-buddy
-ROLE        Systems & Security Engineer
+ROLE        Systems &amp; Security Engineer
 BUILDS      kernels, network runtimes, terminal tools, security research labs
 PLATFORM    Linux
 EDITOR      Neovim / Vim
 MISSION     Build low. Break assumptions. Ship useful systems.
-```
-
-> I do not just want to use systems. I want to know why they work, where they fail, and how to build better ones.
-
+</code></pre>
+<blockquote>
+<p>I do not just want to use systems. I want to know why they work, where they fail, and how to build better ones.</p>
+</blockquote>
 <br/>
-
 <table>
   <tr>
     <td width="33%" align="center">
@@ -53,11 +192,8 @@ MISSION     Build low. Break assumptions. Ship useful systems.
     </td>
   </tr>
 </table>
-
 <br/>
-
-## Featured Builds
-
+<h2>Featured Builds</h2>
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -100,11 +236,8 @@ MISSION     Build low. Break assumptions. Ship useful systems.
     </td>
   </tr>
 </table>
-
 <br/>
-
-## Achievements & Signal
-
+<h2>Achievements &amp; Signal</h2>
 <table>
   <tr>
     <td width="38%" align="center">
@@ -137,13 +270,9 @@ MISSION     Build low. Break assumptions. Ship useful systems.
     </td>
   </tr>
 </table>
-
 <br/>
-
-## The Layer Map
-
-```text
-                    ┌──────────────────────────────────────┐
+<h2>The Layer Map</h2>
+<pre><code class="language-text">                    ┌──────────────────────────────────────┐
                     │ APPLICATIONS                         │
                     │ CLIs . CTI . automation . services   │
                     └─────────────────┬────────────────────┘
@@ -169,16 +298,12 @@ MISSION     Build low. Break assumptions. Ship useful systems.
                     └──────────────────────────────────────┘
 
                            I like working down here.
-```
-
+</code></pre>
 <br/>
-
-## Tech Arsenal
-
+<h2>Tech Arsenal</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,go,rust,python,bash,linux,docker,git,vim" alt="C, C++, Go, Rust, Python, Bash, Linux, Docker, Git, Vim" />
 </p>
-
 <table>
   <tr>
     <td width="25%" align="center"><h2>C / C++</h2></td>
@@ -201,103 +326,81 @@ MISSION     Build low. Break assumptions. Ship useful systems.
     <td><b>x86-64 boot flow, architecture debugging, CPU-level understanding</b></td>
   </tr>
 </table>
-
 <br/>
-
-## Research Mode
-
+<h2>Research Mode</h2>
 <details open>
 <summary><b>Open operating_systems.yml</b></summary>
-
-```yaml
-operating_systems:
+<pre><code class="language-yaml">operating_systems:
   - kernel architecture
   - deterministic / replay-oriented execution
   - schedulers, VFS, memory and syscalls
   - low-level observability
-```
-
+</code></pre>
 </details>
-
 <details>
 <summary><b>Open networking.yml</b></summary>
-
-```yaml
-networking:
+<pre><code class="language-yaml">networking:
   - IPv6-first infrastructure
   - decentralized service discovery
   - peer-to-peer overlay networks
   - SDN and packet processing
   - high-performance packet paths
-```
-
+</code></pre>
 </details>
-
 <details>
 <summary><b>Open security.yml</b></summary>
-
-```yaml
-security:
+<pre><code class="language-yaml">security:
   - kernel / runtime security
   - reverse engineering
   - threat intelligence and OSINT
   - secure distributed systems
   - real-world CTF infrastructure
-```
-
+</code></pre>
 </details>
-
 <br/>
-
-## GitHub Telemetry
-
+<h2>GitHub Telemetry</h2>
 <p align="center">
   <a href="https://github.com/ethical-buddy"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ethical-buddy&theme=github_dark" alt="GitHub profile summary"></a>
 </p>
-
 <p align="center">
   <a href="https://github.com/ethical-buddy?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ethical-buddy&theme=github_dark" alt="Repositories per language" height="170"></a>
   <a href="https://github.com/ethical-buddy?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ethical-buddy&theme=github_dark" alt="Most committed languages" height="170"></a>
 </p>
-
 <p align="center">
   <a href="https://github.com/ethical-buddy"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ethical-buddy&theme=github_dark" alt="GitHub stats" height="170"></a>
   <a href="https://github.com/ethical-buddy"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ethical-buddy&theme=github_dark&utcOffset=5.5" alt="Productive time" height="170"></a>
 </p>
-
 <p align="center">
   <b>Static fallback if external cards rate-limit:</b><br/>
   47 repos . 69 stars . 59 followers . pinned systems/security projects
 </p>
-
 <br/>
-
-## Current Process
-
-```go
-package main
+<h2>Current Process</h2>
+<pre><code class="language-go">package main
 
 func main() {
     me := Engineer{
-        Name:   "Suryansh Deshwal",
-        Handle: "ethical-buddy",
+        Name:   &quot;Suryansh Deshwal&quot;,
+        Handle: &quot;ethical-buddy&quot;,
         Builds: []string{
-            "IPv6-native distributed infrastructure",
-            "operating-system and kernel experiments",
-            "terminal-first Linux tools",
-            "security research and real-world CTF labs",
+            &quot;IPv6-native distributed infrastructure&quot;,
+            &quot;operating-system and kernel experiments&quot;,
+            &quot;terminal-first Linux tools&quot;,
+            &quot;security research and real-world CTF labs&quot;,
         },
-        OptimizesFor: "technically difficult work that teaches something real",
+        OptimizesFor: &quot;technically difficult work that teaches something real&quot;,
     }
 
     me.ReadTheImplementation()
     me.QuestionTheAbstraction()
     me.Ship()
 }
-```
-
+</code></pre>
 <br/>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=92&color=0:0d1117,50:083344,100:111827&text=signal%20%3E%20noise&fontColor=00e5ff&fontSize=34&desc=build%20close%20to%20the%20machine%20.%20read%20the%20implementation%20.%20ship%20useful%20systems&descSize=16" alt="signal greater than noise">
 </p>
+    </article>
+  </main>
+</body>
+</html>

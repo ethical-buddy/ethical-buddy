@@ -109,12 +109,12 @@
 ## Telemetry
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ethical-buddy&show_icons=true&theme=merko&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethical-buddy&layout=compact&theme=merko&hide_border=true" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ethical-buddy&theme=github_dark" alt="GitHub profile summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ethical-buddy&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub profile trophies" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ethical-buddy&theme=github_dark" alt="Most committed languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ethical-buddy&theme=github_dark&utcOffset=5.5" alt="Productive time" />
 </p>
 
 ## Operating Principle
@@ -128,4 +128,3 @@ func Target() string {
 <p align="center">
   <b>Read the implementation. Question the abstraction. Ship the system.</b>
 </p>
-

@@ -4,7 +4,7 @@ set -euo pipefail
 root="$(cd "$(dirname "$0")/.." && pwd)"
 mkdir -p "$root/previews"
 
-for md in README.visual.md README.terminal.md README.lab.md; do
+for md in README-visual.md README.terminal.md README.lab.md; do
   base="${md:r}"
   body="$(cmark-gfm --unsafe -e table -e strikethrough -e autolink "$root/$md")"
   out="$root/previews/$base.html"
@@ -147,7 +147,7 @@ for md in README.visual.md README.terminal.md README.lab.md; do
   <nav class="toolbar">
     <div class="toolbar-inner">
       <span>GitHub-style local preview</span>
-      <a href="previews/README.visual.html">visual</a>
+      <a href="previews/README-visual.html">visual</a>
       <a href="previews/README.terminal.html">terminal</a>
       <a href="previews/README.lab.html">lab</a>
       <a href="${md}">source markdown</a>
@@ -204,7 +204,7 @@ cat > "$root/previews/index.html" <<'HTML'
   <main>
     <h1>README previews</h1>
     <p>These pages are generated from the candidate Markdown files with cmark-gfm and GitHub-like CSS.</p>
-    <a href="README.visual.html">README.visual.md</a>
+    <a href="README-visual.html">README-visual.md</a>
     <a href="README.terminal.html">README.terminal.md</a>
     <a href="README.lab.html">README.lab.md</a>
   </main>

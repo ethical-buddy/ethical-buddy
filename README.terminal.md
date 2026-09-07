@@ -122,12 +122,12 @@ security:
 ## `./telemetry`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ethical-buddy&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethical-buddy&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ethical-buddy&theme=github_dark" alt="GitHub profile summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ethical-buddy&theme=github-compact&hide_border=true" alt="GitHub activity graph" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ethical-buddy&theme=github_dark" alt="Repositories per language" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ethical-buddy&theme=github_dark" alt="GitHub stats" />
 </p>
 
 ## `./connect`
@@ -146,4 +146,3 @@ repeat
 <p align="center">
   <b>I do not just want to use systems. I want to know why they work, where they fail, and how to build better ones.</b>
 </p>
-
