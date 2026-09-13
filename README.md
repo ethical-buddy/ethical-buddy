@@ -30,7 +30,8 @@ ROLE        Systems & Security Engineer / Researcher ,
 BUILDS      kernels, network runtimes, terminal tools, security research labs
 PLATFORM    I Use Arch B.T.W  ... sometimes BSD.
 EDITOR      helix / Vim , Zellij .
-MISSION     Build / breaK low supporting systems. Break assumptions. Ship useful systems. Asking for privacy is not being antinational
+MISSION     Build / breaK low supporting systems. Break assumptions. Ship useful systems.
+            # Asking for privacy is not being anti-national.
 ```
 
 > I do not just want to use systems. I want to know why TF they work, and how to build better ones, Because i really need a better one ahhhh...
