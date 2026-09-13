@@ -45,7 +45,7 @@ MISSION     Build / breaK low supporting systems. Break assumptions. Ship useful
     </td>
     <td width="33%" align="center">
       <h2>Network</h2>
-      <p><b>IPv6 . P2P . relays . DHT . packets</b></p>
+      <p><b>IPv6 . P2P . relays . DHT . SD-WAN, eBPF</b></p>
     </td>
     <td width="33%" align="center">
       <h2>Security</h2>
